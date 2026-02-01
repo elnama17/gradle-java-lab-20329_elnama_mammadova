@@ -5,7 +5,7 @@ package org.example;
 
 public class App {
     public String getGreeting() {
-        return "New branch is created and output messsage is updated";
+        return "Hello World";
     }
 
     public static void main(String[] args) {
